@@ -21522,9 +21522,9 @@
     "restore": {
       "projectUniqueName": "assignment2",
       "projectName": "assignment2",
-      "projectPath": "C:\\Users\\ahmed\\Documents\\UiPath\\assignment2\\.local",
+      "projectPath": "C:\\Users\\ahmed\\Documents\\GitHub\\uipath\\assignment2\\.local",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmed\\Documents\\UiPath\\assignment2\\.local"
+      "outputPath": "C:\\Users\\ahmed\\Documents\\GitHub\\uipath\\assignment2\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
