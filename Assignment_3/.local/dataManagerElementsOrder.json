@@ -12,9 +12,9 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "wiidFound&Sequence_4",
         "ExtractDataTable&Sequence_2",
         "myTable&Sequence_2",
-        "rowVal&Sequence_3",
         "rowVal&Sequence_4"
       ],
       "ArgumentsSectionElementsOrder": [],
