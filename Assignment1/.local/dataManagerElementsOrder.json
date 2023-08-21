@@ -11,8 +11,25 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "secondeNum&Sequence_1",
+        "firstNum&Sequence_1",
+        "symbol&Sequence_1"
+      ],
       "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Calculator.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "result",
+        "operation",
+        "num2",
+        "num1"
+      ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }
