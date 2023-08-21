@@ -12,6 +12,8 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "temp&Sequence_2",
+        "Continue&Sequence_1",
         "secondeNum&Sequence_1",
         "firstNum&Sequence_1",
         "symbol&Sequence_1"
